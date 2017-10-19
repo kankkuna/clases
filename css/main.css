@@ -1,0 +1,25 @@
+h1 {
+  font-family: 'Indie Flower', cursive;
+
+
+}
+p {
+  font-family: 'Fascinate Inline', cursive;
+
+}
+
+.icon{
+  color: purple;
+  margin-right: 25px;
+}
+
+.icon2{
+  color: blue;
+}
+
+.bg-daria {
+    width: 700px;  height: 394px;
+    background: url('../assets/images/css_sprites.png') -10px -10px;
+    display: inline-block;
+
+}
